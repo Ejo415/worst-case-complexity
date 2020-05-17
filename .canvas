@@ -1,4 +1,6 @@
 ---
-:page_id: 3514
-:course_id: 239
-:canvas_url: https://learning.flatironschool.com/courses/239/pages/worst-case-complexity
+:lessons:
+- :id: 3993
+  :course_id: 272
+  :canvas_url: https://learning.flatironschool.com/courses/272/pages/worst-case-complexity
+  :type: page
